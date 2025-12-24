@@ -83,7 +83,8 @@ The mobile application is designed to include a **professional bottom tab naviga
 
 * 🏠 Home
 * 📝 Predict
-* 📊 History
+* instructions
+* result
 * ℹ️ About
 
 Each tab is designed to provide intuitive navigation similar to real healthcare applications.
@@ -92,20 +93,7 @@ Each tab is designed to provide intuitive navigation similar to real healthcare 
 
 ---
 
-### 2️⃣ Icons for Navigation (Planned)
 
-Each tab is designed to include meaningful icons to enhance usability:
-
-| Tab     | Icon (Planned)        |
-| ------- | --------------------- |
-| Home    | 🏠 Home icon          |
-| Predict | ❤️ Pulse / Heart icon |
-| History | ⏱ Time icon           |
-| About   | ℹ️ Information icon   |
-
-Icons were planned using **Ionicons from @expo/vector-icons**.
-
----
 
 ### 3️⃣ Prediction History (Planned Feature)
 
@@ -122,24 +110,8 @@ The application design includes a **prediction history feature**, allowing users
 
 > ⚠️ Due to time and environment limitations, this feature is documented as a planned enhancement.
 
----
 
-### 4️⃣ Image Integration (Planned)
 
-The UI design includes healthcare-related images such as:
-
-* Heart illustration on Home screen
-* Result status visual indicators (Low/High Risk)
-
-Images are stored in:
-
-```
-assets/images/
-```
-
-> Images are included for visual enhancement and user engagement.
-
----
 
 ## 🧪 Machine Learning Model
 
@@ -154,16 +126,8 @@ assets/images/
   * Binary classification (Risk / No Risk)
   * Probability score
 
----
 
-## 🔐 Ethical Considerations
 
-* The application **does NOT provide medical advice**
-* Predictions are for **educational purposes only**
-* Users are advised to consult qualified healthcare professionals
-* Clear disclaimers are included in the UI design
-
----
 
 ## ▶️ How to Run the Project
 
@@ -204,17 +168,8 @@ Open the app using **Expo Go** on an Android device.
 
 ---
 
-## 🎓 Academic Declaration
 
-This project was developed **solely for academic and educational purposes** as part of coursework requirements. All datasets and libraries used are publicly available.
 
----
-
-## 👨‍💻 Author
-
-**Student Project – Machine Learning & Mobile Application Development**
-
----
 
 
 
