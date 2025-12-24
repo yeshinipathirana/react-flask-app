@@ -216,21 +216,6 @@ This project was developed **solely for academic and educational purposes** as p
 
 ---
 
-### ✅ Viva Tip (You can say this confidently)
 
-> “Some advanced UI and persistence features were designed and documented
-> but not fully implemented due to time constraints. However, the system
-> architecture and codebase fully support future integration.”
-
----
-
-If you want, next I can:
-
-* Rewrite this README in **more academic tone**
-* Add **screenshots placeholders**
-* Create a **submission-ready PDF**
-* Prepare **viva Q&A from this project**
-
-Just tell me 👍
 
 
